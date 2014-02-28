@@ -1,0 +1,1002 @@
+# English text for Hacking Health 2014 Website
+# Copyright (C) 2014
+# FIRST AUTHOR <rudasn@gmail.com>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-17 19:57+0200\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: settings.py:63
+msgid "English"
+msgstr ""
+
+#: settings.py:64
+msgid "French"
+msgstr "Français"
+
+#. Translators: START /about/about
+#: templates/about/about.html:7
+msgid ""
+"Hacking Health is an experiment in collaboration. Our hypothesis is that the "
+"interface of front-line clinicians and technology experts will yield "
+"innovative approaches to some (not all) of healthcare&rsquo;s most "
+"entrenched problems. By rapidly building and testing prototypes, we can "
+"identify the fraction of ideas that have the potential to scale and at the "
+"same time, allow others to take their learnings and apply them to new ideas. "
+"Our goal is to make this experimentation as low risk as possible for "
+"everyone involved - the individual participants, organizers, and supporters."
+msgstr ""
+
+#: templates/about/about.html:8
+msgid ""
+"At Hacking Health, we aim to create spaces for collaborative, "
+"interdisciplinary experimentation. We bring together health professionals "
+"and technologists to work together to prototype and problem-solve new ways "
+"to deliver healthcare. It&rsquo;s a high-energy, messy process with no "
+"guarantee of success, but plenty of opportunity for new ideas and teams to "
+"form. The outcomes are probabilistic not determinate."
+msgstr ""
+
+#: templates/about/about.html:9
+msgid ""
+"We define success as making it easier to step to the edge of one&rsquo;s "
+"field and increasing the probability of interfacing with another perspective "
+"that yields an innovative approach. Our underlying mission is learning how "
+"to interface pioneers across diverse fields in real and meaningful "
+"collaborations."
+msgstr ""
+
+#: templates/about/about.html:10
+msgid "We believe that"
+msgstr ""
+
+#: templates/about/about.html:12
+msgid "Real change comes from the bottom up."
+msgstr ""
+
+#: templates/about/about.html:13
+msgid "Innovation occurs at the interface of diverse minds and perspectives."
+msgstr ""
+
+#: templates/about/about.html:14
+msgid ""
+"Collaboration is hard. It requires stepping beyond comfort, into the "
+"unfamiliar. It&rsquo;s worth it."
+msgstr ""
+
+#: templates/about/about.html:16
+msgid "Our approach"
+msgstr ""
+
+#: templates/about/about.html:17
+msgid ""
+"We utilize a &ldquo;hacker&rdquo; inspired approach that combines front-line "
+"user experience with talent from diverse fields to generate innovative "
+"concepts that can be rapidly prototyped and refined. While the term “hacker” "
+"has had inappropriately negative connotation, &ldquo;hacking&rdquo; simply "
+"means challenging seemingly entrenched problems by testing innovative "
+"concepts and ideas through the rapid building and testing of inchoate and "
+"low-cost prototypes."
+msgstr ""
+
+#: templates/about/about.html:18
+msgid ""
+"Though, &ldquo;hacking&rdquo; has its origins in software development, this "
+"approach is now being applied to tackle a range of social issues from "
+"education, climate to governance. The hacker approach is most intensely "
+"applied by non-profits, businesses, and governments where issues with "
+"entrenched imbalances in power, inflexible systems, and an underlying "
+"culture of groups and organizations that resist disruption."
+msgstr ""
+
+#: templates/about/about.html:19
+msgid ""
+"Technology alone cannot necessarily deliver change. However, well-designed, "
+"user-informed digital tools can influence individual behaviour and disrupt "
+"traditional cultural norms by making information more accessible, systems "
+"more transparent, and ultimately by giving a voice to more people."
+msgstr ""
+
+#: templates/about/about.html:24
+msgid "Next: Read the back-story"
+msgstr ""
+
+#: templates/about/base.html:6 templates/main/index.html:227
+msgid "About us"
+msgstr ""
+
+#: templates/about/base.html:12
+msgid "Take action"
+msgstr ""
+
+#. Translators: START /about/cafe
+#: templates/about/cafe.html:7
+msgid "WHAT IS A HACKING HEALTH CAFE?"
+msgstr ""
+
+#: templates/about/cafe.html:8
+msgid ""
+"Cafes are informal meetups to discuss and debate digital health in your "
+"city. Hacking Health Cafés are where people and ideas mingle."
+msgstr ""
+
+#: templates/about/cafe.html:9
+msgid ""
+"Cafes were started by a local team in Montreal who wanted a space where "
+"people could easily and frequently discover ideas and people in digital "
+"health. The first few cafes in Montreal and Toronto filled up within hours "
+"of announcing the event so we realized there was a strong demand for a means "
+"to connect innovators interested in healthcare."
+msgstr ""
+
+#: templates/about/cafe.html:10
+msgid ""
+"Cafes are an easy way for organizers and participants to foster a dynamic "
+"community. Cafes increase the surface area and diffusion of that reaction "
+"between different disciplines, which is the core mission at Hacking Health. "
+"If there isn&rsquo;t one in your area,"
+msgstr ""
+
+#: templates/about/cafe.html:10
+msgid "become a leader"
+msgstr ""
+
+#: templates/about/cafe.html:11
+msgid "and let us help you organize one."
+msgstr ""
+
+#: templates/about/cafe.html:12
+msgid ""
+"If you are looking to see what is happening locally or want to meet the "
+"talent you&rsquo;re missing to make your vision a reality, find a Hacking "
+"Health Cafe near you."
+msgstr ""
+
+#: templates/about/cafe.html:17
+msgid "Next: Read about HH clinics"
+msgstr ""
+
+#. Translators: START /about/clinic
+#: templates/about/clinic.html:7
+msgid "WHAT IS HACKING HEALTH CLINIC?"
+msgstr ""
+
+#: templates/about/clinic.html:8
+msgid ""
+"Our clinics are focused to help leaders in a field, such as a doctor or a "
+"hacker, learn how to communicate and work with talent outside their own area "
+"of expertise. Our fundamental hypothesis at Hacking Health is that by "
+"interfacing different disciplines in meaningful collaboration, innovative "
+"approaches to healthcare challenges can be designed, tested, and scaled."
+msgstr ""
+
+#: templates/about/clinic.html:9
+msgid ""
+"The first step to this experiment, is to bring the different perspectives "
+"together. However, we understand that collaboration is hard. Every field has "
+"its own language and entrenched perspectives. It can be difficult and "
+"frustrating to understand that language, step out of your comfort zone and "
+"see things from another domain."
+msgstr ""
+
+#: templates/about/clinic.html:10
+msgid ""
+"We&rsquo;ve seen how hard this can be and so we are constantly learning how "
+"we can facilitate and educate experts in one field to meaningfully "
+"collaborate with others. We apply these learning in our clinics:"
+msgstr ""
+
+#: templates/about/clinic.html:11
+msgid "Design Clinics"
+msgstr ""
+
+#: templates/about/clinic.html:12
+msgid ""
+"Clinicians work first-hand with design and product developers to refine "
+"their vision into a concrete challenge that can be tackled at a hackathon. "
+"This helps our healthcare experts mature their concepts but also means we "
+"can bring to hackathons well-thought and validated projects."
+msgstr ""
+
+#: templates/about/clinic.html:13
+msgid "Pitch Clinic"
+msgstr ""
+
+#: templates/about/clinic.html:14
+msgid ""
+"Communication is key to effective collaboration. At our pitch clinics, we "
+"help you learn how to effectively convey and pitch your idea in a way that "
+"transcends disciplines and reaches each individual regardless of their "
+"background or perspective."
+msgstr ""
+
+#: templates/about/clinic.html:19
+msgid "Next: Read about HH consult"
+msgstr ""
+
+#. Translators: START /about/consult
+#: templates/about/consult.html:7
+msgid "WHAT IS HACKING HEALTH CONSULT?"
+msgstr ""
+
+#: templates/about/consult.html:8
+msgid "Please visit our"
+msgstr ""
+
+#: templates/about/consult.html:8
+msgid "previous consult page"
+msgstr ""
+
+#. Translators: START /about/faq
+#: templates/about/faq.html:7
+msgid "FAQ"
+msgstr ""
+
+#: templates/about/faq.html:8
+msgid "What is a hackathon?"
+msgstr ""
+
+#: templates/about/faq.html:9
+msgid ""
+"A hackathon is a collaborative computer programming event attended by "
+"developers and designers who want to have fun and learn new skills by "
+"rapidly building prototypes of their ideas."
+msgstr ""
+
+#: templates/about/faq.html:10
+msgid ""
+"A hackathon often begins with project pitches, where individuals make short "
+"presentations to describe the idea they would like to work on. Based on "
+"these presentations, attendees can choose to join a project which interests "
+"them. At the end of the day, everyone gathers to see each team present what "
+"they accomplished."
+msgstr ""
+
+#: templates/about/faq.html:11
+msgid "How is Hacking Health different from a typical hackathon?"
+msgstr ""
+
+#: templates/about/faq.html:12
+msgid ""
+"Hacking Health is designed to mix hackers with healthcare professionals who "
+"may not know how to design or program, but have a deep understanding of "
+"problems that need to be solved, as well as strong connections to target "
+"users of applications that will be developed."
+msgstr ""
+
+#: templates/about/faq.html:13
+msgid ""
+"The mixing of healthcare and technical professionals adds unique value and "
+"challenge to this event. Medical professionals will need to learn how to "
+"adapt their ideas for a technical audience; Hackers will need to make extra "
+"effort to understand unfamiliar problems and help non-technical domain "
+"experts refine their ideas."
+msgstr ""
+
+#: templates/about/faq.html:14
+msgid "Who can attend?"
+msgstr ""
+
+#: templates/about/faq.html:15
+msgid ""
+"Hackers with skills -- programmers, designers, and the like - are asked to "
+"come and join a projects, as well as work with healthcare professionals to "
+"explore their ideas."
+msgstr ""
+
+#: templates/about/faq.html:16
+msgid ""
+"Healthcare Professionals with ideas that require technical assistance -- "
+"doctors, surgeons, nurses, administrators, etc -- are asked to come and "
+"present their ideas. Our goal will be to use the skills and energy of other "
+"attendees to move each idea forward."
+msgstr ""
+
+#: templates/about/faq.html:17
+msgid "Is there a cost?"
+msgstr ""
+
+#: templates/about/faq.html:18
+msgid ""
+"Sometimes we ask a small fee from each participant to help us cover hard "
+"costs, like food and space rental. Discounts are always available for "
+"students."
+msgstr ""
+
+#: templates/about/faq.html:19
+msgid "Can I get a refund once I've purchased a ticket?"
+msgstr ""
+
+#: templates/about/faq.html:20
+msgid ""
+"Yes, but the deadline for refunds is a week prior to the start of the event. "
+"With only a week left until the event starts, we can only exchange your "
+"ticket if you're able to find another participant."
+msgstr ""
+
+#: templates/about/faq.html:21
+msgid "What is the goal?"
+msgstr ""
+
+#: templates/about/faq.html:22
+msgid ""
+"In the short term, our goal is to rapidly prototype practical ideas that "
+"could be useful in healthcare."
+msgstr ""
+
+#: templates/about/faq.html:23
+msgid ""
+"Our broader vision is to foster the kind of collaborative, cross-"
+"disciplinary relationships that lead to more significant innovation down the "
+"road. Not all ideas can be prototyped in a day, and many ideas lay dormant "
+"simply because domain experts do not know who to talk to about building "
+"their ideas."
+msgstr ""
+
+#: templates/about/faq.html:24
+msgid ""
+"We believe that healthcare will improve as we bring technical expertise "
+"closer to front-line problems."
+msgstr ""
+
+#: templates/about/faq.html:25
+msgid "Who can submit a project?"
+msgstr ""
+
+#: templates/about/faq.html:26
+msgid ""
+"Anyone who brings a healthcare-related idea will have the opportunity to "
+"pitch it to the group, and try to assemble the right team to move it forward."
+msgstr ""
+
+#: templates/about/faq.html:27
+msgid "Do projects have to be submitted beforehand?"
+msgstr ""
+
+#: templates/about/faq.html:28
+msgid ""
+"Several days before the event, we will launch a collaborative online space "
+"where you can pitch your idea to other attendees, and hackers can browse "
+"projects to see what interests them."
+msgstr ""
+
+#: templates/about/faq.html:30
+msgid "If you have questions about your idea, please email us:"
+msgstr ""
+
+#: templates/about/faq.html:36
+msgid "What about intellectual property -- who will own my idea?"
+msgstr ""
+
+#: templates/about/faq.html:37
+msgid ""
+"As a facilitator, Hacking Health does not make any claims to IP that emerges "
+"from the event. It up to each team to decide ownership of any work that is "
+"done during the hackathon. Teams generally share IP based on individual "
+"contributions and commitment, but project leads should establish that with "
+"their team in advance."
+msgstr ""
+
+#: templates/about/faq.html:38
+msgid ""
+"A hackathon is an ideal place to work on ideas which you are comfortable "
+"sharing with others, but this does not mean that you must give up ownership "
+"of your idea or project. Some hackathon projects lead to the founding of a "
+"real company down the road, while others are released for free to the "
+"community. It is up to each project lead to decide on a structure, and "
+"communicate this to collaborators."
+msgstr ""
+
+#: templates/about/faq.html:39
+msgid ""
+"The risks of exposing an idea are often outweighed by the benefits of the "
+"feedback and collaboration you will receive if people get excited about your "
+"vision. If you have concerns about the IP in your project, we recommend "
+"consulting a lawyer."
+msgstr ""
+
+#. Translators: START /about/hackathon
+#: templates/about/hackathon.html:7
+msgid "WHAT IS A HACKATHON?"
+msgstr ""
+
+#: templates/about/hackathon.html:8
+msgid ""
+"A hackathon is a simple event with a beginning, a middle, and an end. In the "
+"beginning, project leaders pitch their ideas to the group, and then teams "
+"form -- people are free to join whatever projects catch their interest. The "
+"middle of a hackathon usually lasts one or two days, and it&rsquo;s a mad "
+"dash to the finish line as teams work furiously to get a working prototype "
+"of whatever they&rsquo;re building. At the end, everyone presents what "
+"they&rsquo;ve finished to the audience, and are usually awarded small prizes."
+msgstr ""
+
+#: templates/about/hackathon.html:9
+msgid ""
+"Hackathons are intense, scrappy, and informal in just the right doses to "
+"attack procrastination, perfectionism, and isolation. At a hackathon, you "
+"don&rsquo;t try to build the perfect product, you try to build the most "
+"simple thing that could possibly work. Instead of making elaborate plans on "
+"paper, you get exactly the right people in the room to test ideas with "
+"functional prototypes."
+msgstr ""
+
+#: templates/about/hackathon.html:10
+msgid ""
+"This isn&rsquo;t the best way to solve every problem. But it&rsquo;s a great "
+"way to start solving many problems, because what often holds an idea back is "
+"not merit, but isolation and a lack of momentum: the right people either "
+"don&rsquo;t know each other, or they don&rsquo;t have enough encouragement "
+"to push their ideas out into the open and see if them fly."
+msgstr ""
+
+#: templates/about/hackathon.html:11
+msgid ""
+"So a hackathon is not where you&rsquo;re going to solve big problems "
+"instantly. It&rsquo;s where two or three people are going to meet each "
+"other, and then a year down the road, you see them again in the newspaper."
+msgstr ""
+
+#: templates/about/hackathon.html:12
+msgid "HOW ARE HACKING HEALTH HACKATHONS DIFFERENT?"
+msgstr ""
+
+#: templates/about/hackathon.html:13
+msgid ""
+"Hackathons are organized across the world from small teams wanting to have "
+"fun to huge organizations trying to find innovative solutions."
+msgstr ""
+
+#: templates/about/hackathon.html:14
+msgid ""
+"Hacking Health is unique because we bring a wide variety of people in one "
+"room, ranging from designers, developers, patients and health professionals. "
+"It&rsquo;s only when you let them work together that magic happens and "
+"wonderful ideas and products are born."
+msgstr ""
+
+#: templates/about/hackathon.html:15
+msgid ""
+"Hacking Health also partners with local hospitals to make it easier for "
+"doctors to participate at the event (sometimes between shifts!) but also to "
+"make it possible to test the apps with real patients who are excited to see "
+"their feedback being used in real-time by the teams."
+msgstr ""
+
+#: templates/about/hackathon.html:16
+msgid ""
+"Lastly, Hacking Health puts a huge emphasis on having health professionals "
+"right from the start. Not that we don&rsquo;t like hacking on the next "
+"social picture-sharing apps, but we believe that health professionals bring "
+"hard and practical problems to the table, which challenge and motivate "
+"designers and hackers in the room."
+msgstr ""
+
+#: templates/about/hackathon.html:21
+msgid "Next: Read about HH Cafes"
+msgstr ""
+
+#: templates/about/sponsor.html:8
+msgid "Becoming a sponsor"
+msgstr ""
+
+#: templates/about/sponsor.html:11
+msgid ""
+"Hacking Health is a grassroots movement that brings together innovators in "
+"healthcare, technology and design. We are a non-profit that is constantly "
+"learning how to interface pioneers across diverse fields in real and "
+"meaningful collaborations for practical innovation in healthcare."
+msgstr ""
+
+#: templates/about/sponsor.html:14
+msgid ""
+"We welcome partnerships with innovative and brave companies and "
+"organizations that want to see real change in healthcare."
+msgstr ""
+
+#: templates/about/sponsor.html:17
+msgid "Be Brave:"
+msgstr ""
+
+#: templates/about/sponsor.html:20
+msgid ""
+"From the beginning, we wanted to bring the ‘hacker way’ into healthcare. We "
+"began to reach out to hospitals and clinics by email but we’re having very "
+"little effect. This was confusing because when we met with doctors in person "
+"or through Twitter, there was an instantaneous connection. In short order, "
+"we discovered that our emails were being blocked by hospital IT filters due "
+"to the word “hacking”."
+msgstr ""
+
+#: templates/about/sponsor.html:23
+msgid ""
+"We discovered the same problem with sponsors. In fact, with one large well-"
+"known company, we were told that they loved our concept and mission. "
+"However, when the sponsorship plan was presented to senior management, it "
+"was struck down out of fear of being associated with anything “hacker”."
+msgstr ""
+
+#: templates/about/sponsor.html:26
+msgid ""
+"We thought long and hard about changing our name to something more "
+"palatable. In the end, we decided stick to our name because our core mission "
+"is about changing healthcare with hacking, not just “coding” or ambiguously "
+"by “disrupting”. This started as finding ways to help hackers and designers "
+"access healthcare challenges. It soon evolved into finding ways cultivate "
+"this approach in healthcare itself, teaching doctors and nurses to rethink "
+"approaches to problems."
+msgstr ""
+
+#: templates/about/sponsor.html:29
+msgid ""
+"So partnering with Hacking Health means stepping outside of what is "
+"comfortable into the unfamiliar. It requires a bit of bravery and being open "
+"to experimenting. If that sounds like your organization, we want to hear "
+"from you."
+msgstr ""
+
+#: templates/about/sponsor.html:32
+msgid "Please"
+msgstr ""
+
+#: templates/about/sponsor.html:34
+msgid "contact us"
+msgstr ""
+
+#. Translators: START /about/story
+#: templates/about/story.html:7
+msgid "A DOCTOR, DESIGNER, AND DEVELOPER WALK INTO A BAR...."
+msgstr ""
+
+#: templates/about/story.html:8
+msgid ""
+"In the fall of 2012, the first founders of Hacking Health were each "
+"independently working on start-up ideas in Montréal."
+msgstr ""
+
+#: templates/about/story.html:9
+msgid ""
+"Jeeshan Chowdhury, a MD/PhD Rhodes Scholar, who studied health information "
+"technologies in Oxford was exploring the start-up space. Coming from a "
+"medical perspective, the idea of initiating a technology project can be "
+"daunting. Programmers speak arcane languages and technology projects are "
+"infamous for huge costs with no guarantee of results."
+msgstr ""
+
+#: templates/about/story.html:10
+msgid ""
+"At his first hackathon, Jeeshan met Matthew Huebert, an entrepreneur and "
+"designer who previously co-founded Bodo, a company in consumer health. Not "
+"having a medical background, Matt like many had opted to start a business in "
+"which they could sell direct to consumers rather than trying to navigate the "
+"intimidating bureaucracies of our healthcare system."
+msgstr ""
+
+#: templates/about/story.html:11
+msgid ""
+"Then came upon Dominic Savoie, a developer who had been working on a social "
+"gaming start-up. Dominic&rsquo;s wife is a doctor and through her insight, "
+"he became well aware of the inefficiencies in medicine but also the growing "
+"size of the health marketplace. Like many engineers, he was keen about "
+"working on something different but also meaningful."
+msgstr ""
+
+#: templates/about/story.html:12
+msgid ""
+"They began to notice that though technology events were plentiful, very few "
+"clinicians were in attendance. At a health conference, Matt and Dom joined "
+"Jeeshan for a session on innovation in health. Surprisingly, they were the "
+"only technology experts in the room!"
+msgstr ""
+
+#: templates/about/story.html:13
+msgid ""
+"Soon enough, the three of them were thinking how they could break down the "
+"barriers between health, technology, and design. What if they could get "
+"doctors, nurses, and other health professionals in the same room as "
+"technology experts? Could they reduce the risk of healthcare innovation by "
+"giving designers and developers exposure to the healthcare knowledge and "
+"connections they lack?"
+msgstr ""
+
+#: templates/about/story.html:14
+msgid ""
+"Instead of another conference, they formed a team spanning law, medicine, "
+"media, technology, design, and engineering, and decided to hold an "
+"experiment: a hackathon that would bring together hackers and doctors in the "
+"same room, to collaborate on problems in healthcare."
+msgstr ""
+
+#: templates/about/story.html:15
+msgid ""
+"The first hackathon in Montréal grew beyond their expectations and now "
+"Hacking Health has spread to Toronto, Vancouver with new cities like New "
+"York and London in the pipeline. Over 1000 clinicians, patients, designers, "
+"and developers have participated in Hacking Health events thus far."
+msgstr ""
+
+#: templates/about/story.html:16
+msgid "We&rsquo;re really excited for what&rsquo;s ahead!"
+msgstr ""
+
+#: templates/about/story.html:21
+msgid "Next: Read the team"
+msgstr ""
+
+#. Translators: START /about/team
+#: templates/about/team.html:7
+msgid "Hacking Health Family"
+msgstr ""
+
+#: templates/about/team.html:8
+msgid "Global Team"
+msgstr ""
+
+#: templates/about/team.html:33
+msgid "Global Volunteers and Facilitators"
+msgstr ""
+
+#: templates/about/team.html:46
+msgid "Hacking Health Advisors"
+msgstr ""
+
+#: templates/about/team.html:55
+msgid "Next: Read about HH Hackathons"
+msgstr ""
+
+#: templates/layout/base.html:8
+msgid "Bringing innovation to healthcare"
+msgstr ""
+
+#: templates/layout/base.html:133
+msgid "About Us"
+msgstr ""
+
+#: templates/layout/base.html:135
+msgid "About Hacking Health"
+msgstr ""
+
+#: templates/layout/base.html:136 templates/layout/base.html.py:208
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: templates/layout/base.html:143
+msgid "Cities"
+msgstr ""
+
+#: templates/layout/base.html:145
+msgid "All events"
+msgstr ""
+
+#: templates/layout/base.html:153
+msgid "Get Involved"
+msgstr ""
+
+#: templates/layout/base.html:157
+msgid "My Account"
+msgstr ""
+
+#: templates/layout/base.html:159
+msgid "My events"
+msgstr ""
+
+#: templates/layout/base.html:160
+msgid "Logout"
+msgstr ""
+
+#: templates/layout/base.html:165
+msgid "Login"
+msgstr ""
+
+#: templates/layout/base.html:203
+msgid "More Links"
+msgstr ""
+
+#: templates/layout/base.html:206
+msgid "View All Events"
+msgstr ""
+
+#: templates/layout/base.html:207
+msgid "Become a Sponsor"
+msgstr ""
+
+#: templates/layout/base.html:209
+msgid "Media Coverage"
+msgstr ""
+
+#: templates/layout/base.html:210
+msgid "Success Stories"
+msgstr ""
+
+#: templates/layout/base.html:215
+msgid "Past Events"
+msgstr ""
+
+#: templates/layout/base.html:218 templates/layout/base.html.py:220
+#: templates/main/index.html:155
+msgid "February"
+msgstr ""
+
+#: templates/layout/base.html:219
+msgid "October"
+msgstr ""
+
+#: templates/layout/base.html:221 templates/layout/base.html.py:222
+msgid "November"
+msgstr ""
+
+#: templates/layout/base.html:223
+msgid "January"
+msgstr ""
+
+#: templates/layout/base.html:233
+msgid "Mailing List"
+msgstr ""
+
+#: templates/layout/base.html:251
+msgid "Contact"
+msgstr ""
+
+#: templates/layout/base.html:260
+msgid "Contact us"
+msgstr ""
+
+#: templates/main/global_sponsors.html:8
+msgid "Thanks to our generous partners and sponsors"
+msgstr ""
+
+#: templates/main/hhparts.html:13
+msgid "Hackathons"
+msgstr ""
+
+#: templates/main/hhparts.html:15
+msgid "A fun, intense weekend of rapid prototyping your healthcare ideas."
+msgstr ""
+
+#: templates/main/hhparts.html:17 templates/main/hhparts.html.py:30
+#: templates/main/hhparts.html:44 templates/main/hhparts.html.py:59
+msgid "More"
+msgstr ""
+
+#: templates/main/hhparts.html:26
+msgid "Cafes"
+msgstr ""
+
+#: templates/main/hhparts.html:28
+msgid "Informal evening meet-ups where ideas and people mingle."
+msgstr ""
+
+#: templates/main/hhparts.html:40
+msgid "Clinics"
+msgstr ""
+
+#: templates/main/hhparts.html:42
+msgid ""
+"Workshops to help clinicians and hackers understand and communicate with "
+"each other."
+msgstr ""
+
+#: templates/main/hhparts.html:55
+msgid "Consult"
+msgstr ""
+
+#: templates/main/hhparts.html:57
+msgid ""
+"We can help you find the right team to tackle your healthcare technology "
+"challenge."
+msgstr ""
+
+#: templates/main/index.html:29 templates/main/index.html.py:151
+msgid "Upcoming"
+msgstr ""
+
+#: templates/main/index.html:37
+msgid ""
+"Hacking Health is designed to <a>improve healthcare</a> by inviting "
+"technology creators and healthcare professionals to <a>collaborate</a> on "
+"realistic, human-centric solutions to front-line problems."
+msgstr ""
+
+#: templates/main/index.html:39
+msgid ""
+"Our <a>hackathons</a> and <a>workshops</a> are fun, intense, hands-on events "
+"where <a>small teams</a> tackle tough problems in a <a>supportive community</"
+"a> of peers and mentors."
+msgstr ""
+
+#: templates/main/index.html:50
+msgid "Hackers &amp; Makers"
+msgstr ""
+
+#: templates/main/index.html:52
+msgid "Designers"
+msgstr ""
+
+#: templates/main/index.html:53
+msgid "Developers"
+msgstr ""
+
+#: templates/main/index.html:54
+msgid "UX Researchers"
+msgstr ""
+
+#: templates/main/index.html:55
+msgid "Engineers"
+msgstr ""
+
+#: templates/main/index.html:57
+msgid ""
+"Work on meaningful problems. Help improve healthcare. Get connected, and "
+"practice your skills."
+msgstr ""
+
+#: templates/main/index.html:63
+msgid "Health Professionals"
+msgstr ""
+
+#: templates/main/index.html:65
+msgid "Doctors"
+msgstr ""
+
+#: templates/main/index.html:66
+msgid "Nurses"
+msgstr ""
+
+#: templates/main/index.html:67
+msgid "Social Workers"
+msgstr ""
+
+#: templates/main/index.html:68
+msgid "Other Clinicians"
+msgstr ""
+
+#: templates/main/index.html:69
+msgid "Hospital I.T."
+msgstr ""
+
+#: templates/main/index.html:71
+msgid ""
+"Collaborate with tech experts to solve problems in healthcare. Let your "
+"ideas inspire practical solutions."
+msgstr ""
+
+#: templates/main/index.html:78
+msgid "Other Stakeholders"
+msgstr ""
+
+#: templates/main/index.html:80
+msgid "Patients"
+msgstr ""
+
+#: templates/main/index.html:81
+msgid "Health Administrators"
+msgstr ""
+
+#: templates/main/index.html:82
+msgid "Mentors"
+msgstr ""
+
+#: templates/main/index.html:83
+msgid "Investors"
+msgstr ""
+
+#: templates/main/index.html:84
+msgid "Entrepreneurs"
+msgstr ""
+
+#: templates/main/index.html:86
+msgid ""
+"Support and participate in grass-roots, collaborative problem-solving to "
+"improve the healthcare system."
+msgstr ""
+
+#: templates/main/index.html:93
+msgid "As Covered In:"
+msgstr ""
+
+#: templates/main/index.html:132
+msgid "View more of our media coverage"
+msgstr ""
+
+#: templates/main/index.html:160
+msgid "March"
+msgstr ""
+
+#: templates/main/index.html:166
+msgid "April"
+msgstr ""
+
+#: templates/main/index.html:171
+msgid "June"
+msgstr ""
+
+#: templates/main/index.html:176
+msgid "Spring"
+msgstr ""
+
+#: templates/main/index.html:180
+msgid "Can't find your city?"
+msgstr ""
+
+#: templates/main/index.html:180
+msgid "Become an organizer"
+msgstr ""
+
+#: templates/main/index.html:180
+msgid "<a href=\\"
+msgstr ""
+
+#: templates/main/index.html:188
+msgid "Join the Mailing List"
+msgstr ""
+
+#: templates/main/index.html:202
+msgid "Blog"
+msgstr ""
+
+#: templates/main/index.html:212
+msgid "Connect With Us:"
+msgstr ""
+
+#: templates/main/index.html:230
+msgid "Media coverage"
+msgstr ""
+
+#: templates/main/index.html:234
+msgid "Success stories"
+msgstr ""
+
+#: templates/main/index.html:244
+msgid "Project Consultation"
+msgstr ""
+
+#: templates/main/login_forgot.html:16
+msgid "Forgot your password?"
+msgstr ""
+
+#: templates/main/login_forgot.html:21
+msgid ""
+"Please enter your e-mail below and we will send you a link to reset your "
+"password"
+msgstr ""
+
+#: templates/main/login_forgot.html:23
+msgid "You need to enter your email"
+msgstr ""
+
+#: templates/main/login_forgot_sent.html:16
+msgid "Password Reset Sent"
+msgstr ""
+
+#: templates/main/login_forgot_sent.html:17
+msgid ""
+"If the email you entered is valid, you should shortly receive an email with "
+"a link to reset your password."
+msgstr ""
+
+#: templates/main/password_reset_done.html:15
+msgid "Reset Password Done"
+msgstr ""
+
+#: templates/main/password_reset_done.html:17
+msgid "Your password has been reset!"
+msgstr ""
+
+#: templates/main/password_reset_done.html:18
+msgid "Back to the homepage"
+msgstr ""
+
+#: templates/main/password_reset_form.html:15
+msgid "Reset Password"
+msgstr ""
+
+#: templates/main/password_reset_form.html:20
+msgid "Passwords don&rsquot;t match."
+msgstr ""
